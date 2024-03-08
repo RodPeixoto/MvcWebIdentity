@@ -6,6 +6,8 @@ O projeto MvcWebIdentity é uma aplicação web construída usando ASP.NET Core 
 #### Estrutura do Projeto
 Aqui estão os principais componentes do projeto:
 
+<img src= "https://github.com/RodPeixoto/MvcWebIdentity/blob/master/Crud.jpg">
+
 - **Context:** Contém a classe de contexto do banco de dados, que se comunica com o banco de dados usando o Entity Framework.
 - **Controllers:** Aqui estão os controladores que gerenciam as requisições HTTP e as respostas para as páginas da web.
 - **Entities:** Define as entidades do domínio (por exemplo, usuários, papéis) e suas propriedades.
@@ -14,6 +16,8 @@ Aqui estão os principais componentes do projeto:
 - **Properties:** Configurações e metadados do projeto.
 - **Views:** As visualizações HTML que compõem as páginas da web.
 - **wwwroot:** Recursos estáticos como arquivos CSS, JavaScript e imagens.
+
+<img src= "https://github.com/RodPeixoto/MvcWebIdentity/blob/master/m-crud.jpg">
 
 #### Último Commit
 
